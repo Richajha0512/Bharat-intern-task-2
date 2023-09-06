@@ -1,5 +1,5 @@
-# Bharat-intern-task-2
 Project Management System in PHP is a platform from which employees and managers can use for collaboration and communication.
+
 
 Prerequisite: For using this project you have to create a database using 'pms_project.sql' file.
 
